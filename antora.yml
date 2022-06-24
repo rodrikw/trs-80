@@ -1,0 +1,6 @@
+name: trs-80
+title: 'TRS-80 Expansion Interface'
+version: '1.0'
+start_page: opsmanual:index.adoc
+nav:
+- modules/opsmanual/nav.adoc

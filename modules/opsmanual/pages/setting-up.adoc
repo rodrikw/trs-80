@@ -1,0 +1,81 @@
+= Setting up
+
+== Power Supplies and PCB Housing (see xref:_fig_power_supplies_and_future_expansion[Figure 2])
+
+Remove the Power Supply Door (top right side).
+First connect one DC power cord (DIN connector) to the Power connector on the PCB.
+Now install the two DC Power Supplies as illustrated.
+Route the remaining cords out the rear of the case.
+Be sure the power cords are seated in the door cutouts before replacing the Door.
+
+To gain access to the future expansion PCB Housing, remove the Expansion Door from the top left side of the module.
+
+[#_fig_power_supplies_and_future_expansion]
+.Power Supplies and Future Expansion PCB Locations.
+image::power-supplies-and-future-expansion-pcb-locations.png[caption="Figure 2: ",alt="Power Supplies and Future Expansion PCB Locations"]
+
+[NOTE]
+====
+The term "`port`" as used in this manual refers to the openings into which the Cable connectors are inserted to provide an interconnection between the TRS-80 and the Expansion Interface modules.
+====
+
+The ports, with the exception of the Expansion Interface port, are also covered by removable Doors.
+To remove these Doors, press on the right side of the Door and it will pivot slightly.
+Grasp the left side of the Door and pull out (see Figure 3 for locations).
+
+[#_expansion_interface-front_view_doors_removed]
+.Expansion Interface, Front View--Doors Removed.
+image::expansion-interface-front-view-doors-removed.png[caption="Figure 3: ",alt="Expansion Interface, Front View - Doors Removed"]
+
+== Electrical Connections (see xref:_front_view_interface_connections[Figure 4])
+
+Turn the TRS-80 so that it faces away from you.
+Locate the port Door (1400083); it's at the right end of the rear panel.
+To remove the Door, raise it up and slide it to the right--then lift it up and away from the TRS-80.
+
+Place the TRS-80 and Expansion Interface Hoods (14000217 and 14000214) on the Ribbon Cable Connectors as shown in xref:_fig_front_view_interface_connections[Figure 4]. The Hoods replace the Door on the TRS-80 and fill the opening on the Expansion Interface.
+These Hoods are designed so that it is not possible to insert the connectors upside down.
+They function as keyways for the connectors.
+Now connect the Ribbon Cable between the left front Expansion Interface port and the TRS-80 port.
+
+Connect the DC Power Cord (DIN connector) to the POWER connector on the right rear of the TRS-80 and connect both AC Power Cords to standard 120 VAC outlets.
+
+The interconnect cable for an expansion module is provided with that unit.
+See xref:_fig_front_view_interface_connections[Figure 4] for Hood Assembly and Installation.
+
+Connect the Cassette Recorder Cable (DIN plug on one end and three plugs on the other) to the Tape I/O connector that is located on the rear of the Expansion Interface nearest the Power Cord exits.
+(Refer to xref:conclusion.adoc#_fig_rear_view_interface_connections[Figure 5]).
+
+Of the three plugs on the other end of the Cable:
+
+. Connect the black plug to the EAR jack on the side of the Cassette Recorder.
+
+. Connect the larger gray plug to the AUX jack.
+
+. Connect the smaller gray plug to the REM jack.
+
+[NOTE]
+====
+A Dummy Plug is provided with your Cassette Recorder.
+Plug it in to the MIC jack.
+This Plug disconnects the built-in microphone so it won't pick up sounds while you are loading tapes.
+====
+
+[#_fig_front_view_interface_connections]
+.Front View--Interface Connections.
+image::front-view-interface-connections.png[caption="Figure 4: ",alt="Front View - Interface Connections"]
+
+Connect the Cassette Recorder Jumper Cable to the center DIN connector on the rear of the Expansion Interface.
+Connect the other end to the TAPE connector on the right rear of the TRS-80.
+
+Connect the Video Cable from the Video Display to the VIDEO connector on the right rear of the TRS-80.
+
+[NOTE]
+====
+Your Cassette Recorders may be powered by batteries or from a 120 VAC source.
+Thus, AC power cords are optional.
+====
+
+The TRS-80 Expansion Interface has been designed to support the Video Display module.
+Set the feet of the Video Display in the recesses in the Power Supply and PCB Housing Doors.
+(Refer to xref:conclusion.adoc#_fig_placement_of_expansion_interface[Figure 6]).

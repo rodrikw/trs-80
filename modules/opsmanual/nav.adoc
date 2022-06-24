@@ -1,0 +1,8 @@
+* xref:index.adoc[]
+* xref:introduction.adoc[]
+* xref:setting-up.adoc[]
+* xref:operation.adoc[]
+* xref:conclusion.adoc[]
+* xref:parts-list.adoc[]
+* xref:warranty.adoc[]
+* xref:gutenberg-license.adoc[]
